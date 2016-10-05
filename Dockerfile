@@ -1,2 +1,2 @@
-FROM pixl8/preside-cms:10.6.0
+FROM timsayshey/wheeliecms
 COPY website /var/www
